@@ -1,0 +1,681 @@
+{
+  "creator": "AURELIA",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "source_url": "https://github.com/SparkUiX/aurelia-product-samples",
+  "blender_version": "5.3.0",
+  "families": [
+    {
+      "id": "A",
+      "family": "Forma",
+      "category": "Consumer Electronics",
+      "title": "AURELIA Forma | Consumer Electronics Samples",
+      "archive": "Downloads/AURELIA_A_Forma_Samples.zip",
+      "entries": [
+        {
+          "sku": "A01",
+          "title": "Forma One",
+          "category_zh": "智能手机",
+          "description": "Pearl ceramic smartphone with a champagne perimeter, dual stabilized optics and a full-bleed Denim tidal display.",
+          "dimensions_mm": [
+            75.7,
+            13.3,
+            153.6
+          ],
+          "parts": 37,
+          "blend": "Blender/A01_Forma_One.blend",
+          "glb": "GLB/A01_Forma_One.glb",
+          "preview": "Previews/A01_Forma_One.webp"
+        },
+        {
+          "sku": "A06",
+          "title": "Forma Buds Pearl",
+          "category_zh": "无线入耳式耳机",
+          "description": "An open travel charging case with twin silicone-tipped earphones, recessed seats and a hollow lid.",
+          "dimensions_mm": [
+            67.0,
+            45.6,
+            59.5
+          ],
+          "parts": 22,
+          "blend": "Blender/A06_Forma_Buds_Pearl.blend",
+          "glb": "GLB/A06_Forma_Buds_Pearl.glb",
+          "preview": "Previews/A06_Forma_Buds_Pearl.webp"
+        },
+        {
+          "sku": "A17",
+          "title": "Beam Mini",
+          "category_zh": "便携投影仪",
+          "description": "A barrel-focused glass objective and side cooling vanes share an enamel optical housing with a pivoting carry yoke.",
+          "dimensions_mm": [
+            131.3,
+            112.1,
+            91.4
+          ],
+          "parts": 40,
+          "blend": "Blender/A17_Beam_Mini.blend",
+          "glb": "GLB/A17_Beam_Mini.glb",
+          "preview": "Previews/A17_Beam_Mini.webp"
+        }
+      ],
+      "download_bytes": 1350858,
+      "sha256": "4e2e617818fec789fd6127f317c340c00822c5074b7daa60722b098ce8f3173e"
+    },
+    {
+      "id": "B",
+      "family": "Optica",
+      "category": "Cameras, Lenses and Studio Equipment",
+      "title": "AURELIA Optica | Cameras, Lenses and Studio Equipment Samples",
+      "archive": "Downloads/AURELIA_B_Optica_Samples.zip",
+      "entries": [
+        {
+          "sku": "B02",
+          "title": "Rialto RF",
+          "category_zh": "旁轴无反相机",
+          "description": "A champagne top plate carries the brightline finder above a rangefinder-style leather body.",
+          "dimensions_mm": [
+            136.2,
+            85.7,
+            77.5
+          ],
+          "parts": 95,
+          "blend": "Blender/B02_Rialto_RF.blend",
+          "glb": "GLB/B02_Rialto_RF.glb",
+          "preview": "Previews/B02_Rialto_RF.webp"
+        },
+        {
+          "sku": "B08",
+          "title": "Lungo 180",
+          "category_zh": "远摄镜头",
+          "description": "Long ivory telephoto barrel with three control bands and stepped stray-light baffles.",
+          "dimensions_mm": [
+            92.1,
+            92.1,
+            148.2
+          ],
+          "parts": 41,
+          "blend": "Blender/B08_Lungo_180.blend",
+          "glb": "GLB/B08_Lungo_180.glb",
+          "preview": "Previews/B08_Lungo_180.webp"
+        },
+        {
+          "sku": "B12",
+          "title": "Fresnel 160",
+          "category_zh": "摄影棚菲涅尔聚光灯",
+          "description": "Four flared shutter leaves frame a stepped annular Fresnel lens on a geared tilt yoke.",
+          "dimensions_mm": [
+            244.5,
+            261.0,
+            319.2
+          ],
+          "parts": 35,
+          "blend": "Blender/B12_Fresnel_160.blend",
+          "glb": "GLB/B12_Fresnel_160.glb",
+          "preview": "Previews/B12_Fresnel_160.webp"
+        }
+      ],
+      "download_bytes": 1908265,
+      "sha256": "48dbbb3329e3ea255790dd5fa822915db1da23e2adb17b2ac3263569872eaf73"
+    },
+    {
+      "id": "C",
+      "family": "Strata",
+      "category": "Contemporary Furniture",
+      "title": "AURELIA Strata | Contemporary Furniture Samples",
+      "archive": "Downloads/AURELIA_C_Strata_Samples.zip",
+      "entries": [
+        {
+          "sku": "C02",
+          "title": "Mora Shell",
+          "category_zh": "弯木休闲椅",
+          "description": "Two walnut ribbons carry an upholstered bent-ply shell with a swept wing back and turned bronze-shod legs.",
+          "dimensions_mm": [
+            795.9,
+            719.7,
+            790.9
+          ],
+          "parts": 26,
+          "blend": "Blender/C02_Mora_Shell.blend",
+          "glb": "GLB/C02_Mora_Shell.glb",
+          "preview": "Previews/C02_Mora_Shell.webp"
+        },
+        {
+          "sku": "C03",
+          "title": "Pebble 118",
+          "category_zh": "洞石茶几",
+          "description": "A double-radius travertine slab rests on two offset, turned and fluted oak pedestals.",
+          "dimensions_mm": [
+            1180.0,
+            660.0,
+            345.0
+          ],
+          "parts": 7,
+          "blend": "Blender/C03_Pebble_118.blend",
+          "glb": "GLB/C03_Pebble_118.glb",
+          "preview": "Previews/C03_Pebble_118.webp"
+        },
+        {
+          "sku": "C04",
+          "title": "Tambour 180",
+          "category_zh": "影音边柜",
+          "description": "A soft-corner walnut carcass encloses a reeded sliding door, open electronics bay and acoustic cloth front.",
+          "dimensions_mm": [
+            1800.0,
+            426.0,
+            480.0
+          ],
+          "parts": 32,
+          "blend": "Blender/C04_Tambour_180.blend",
+          "glb": "GLB/C04_Tambour_180.glb",
+          "preview": "Previews/C04_Tambour_180.webp"
+        }
+      ],
+      "download_bytes": 1510031,
+      "sha256": "f3fdc56f77f130db4f7d51486ab15e1a9a68081cd960d04e4b50a77fc783eb2e"
+    },
+    {
+      "id": "D",
+      "family": "Lucent",
+      "category": "Architectural Lighting Fixtures",
+      "title": "AURELIA Lucent | Architectural Lighting Fixtures Samples",
+      "archive": "Downloads/AURELIA_D_Lucent_Samples.zip",
+      "entries": [
+        {
+          "sku": "D01",
+          "title": "Axis 42",
+          "category_zh": "双臂工作台灯",
+          "description": "An enamelled counterbalanced arm pivots on exposed friction bearings above an offset task optic.",
+          "dimensions_mm": [
+            349.7,
+            148.3,
+            409.0
+          ],
+          "parts": 30,
+          "blend": "Blender/D01_Axis_42.blend",
+          "glb": "GLB/D01_Axis_42.glb",
+          "preview": "Previews/D01_Axis_42.webp"
+        },
+        {
+          "sku": "D04",
+          "title": "Oculus 28",
+          "category_zh": "间接照明壁灯",
+          "description": "An opal glass annulus frames a shallow brushed medallion with a stepped floating wall mount.",
+          "dimensions_mm": [
+            280.0,
+            94.0,
+            280.0
+          ],
+          "parts": 9,
+          "blend": "Blender/D04_Oculus_28.blend",
+          "glb": "GLB/D04_Oculus_28.glb",
+          "preview": "Previews/D04_Oculus_28.webp"
+        },
+        {
+          "sku": "D11",
+          "title": "Crown Mobile",
+          "category_zh": "平衡枝形吊灯",
+          "description": "A suspended three-tier brass mobile balances six opal domes on offset horizontal spars.",
+          "dimensions_mm": [
+            992.9,
+            630.6,
+            869.0
+          ],
+          "parts": 45,
+          "blend": "Blender/D11_Crown_Mobile.blend",
+          "glb": "GLB/D11_Crown_Mobile.glb",
+          "preview": "Previews/D11_Crown_Mobile.webp"
+        }
+      ],
+      "download_bytes": 1076171,
+      "sha256": "3403344a0803ebf1bd7f1b3a3d381dad61d2050e1673911b32cf45a72fe47457"
+    },
+    {
+      "id": "E",
+      "family": "Cucina",
+      "category": "Kitchen and Home Appliances",
+      "title": "AURELIA Cucina | Kitchen and Home Appliances Samples",
+      "archive": "Downloads/AURELIA_E_Cucina_Samples.zip",
+      "entries": [
+        {
+          "sku": "E07",
+          "title": "Cigno Kettle",
+          "category_zh": "鹅颈温控水壶",
+          "description": "The Saffron spun kettle couples a tapered swan-neck with a bent walnut grip and a low temperature dock.",
+          "dimensions_mm": [
+            297.5,
+            150.0,
+            178.0
+          ],
+          "parts": 12,
+          "blend": "Blender/E07_Cigno_Kettle.blend",
+          "glb": "GLB/E07_Cigno_Kettle.glb",
+          "preview": "Previews/E07_Cigno_Kettle.webp"
+        },
+        {
+          "sku": "E08",
+          "title": "Doppio Toaster",
+          "category_zh": "双槽烤面包机",
+          "description": "A capped clay-enamel body wraps twin stainless bread wells above a pull-out crumb tray.",
+          "dimensions_mm": [
+            317.5,
+            167.7,
+            182.0
+          ],
+          "parts": 21,
+          "blend": "Blender/E08_Doppio_Toaster.blend",
+          "glb": "GLB/E08_Doppio_Toaster.glb",
+          "preview": "Previews/E08_Doppio_Toaster.webp"
+        },
+        {
+          "sku": "E19",
+          "title": "Impasto Six",
+          "category_zh": "行星式厨师机",
+          "description": "A hinged cast bridge arches over the spun mixing bowl and stainless planetary hook.",
+          "dimensions_mm": [
+            235.9,
+            351.0,
+            331.0
+          ],
+          "parts": 20,
+          "blend": "Blender/E19_Impasto_Six.blend",
+          "glb": "GLB/E19_Impasto_Six.glb",
+          "preview": "Previews/E19_Impasto_Six.webp"
+        }
+      ],
+      "download_bytes": 1149160,
+      "sha256": "82fbf9bf66afd13d7f7f0bfc9305be046e545364ecd146eb40ed88eaee989d0e"
+    },
+    {
+      "id": "F",
+      "family": "Ordine",
+      "category": "Office and Desk Accessories",
+      "title": "AURELIA Ordine | Office and Desk Accessories Samples",
+      "archive": "Downloads/AURELIA_F_Ordine_Samples.zip",
+      "entries": [
+        {
+          "sku": "F01",
+          "title": "Cadence 67",
+          "category_zh": "机械键盘",
+          "description": "Sculpted double-shot caps float over a gasket-mounted brass plate; an indexed encoder occupies the isolated navigation column.",
+          "dimensions_mm": [
+            343.0,
+            120.8,
+            28.0
+          ],
+          "parts": 86,
+          "blend": "Blender/F01_Cadence_67.blend",
+          "glb": "GLB/F01_Cadence_67.glb",
+          "preview": "Previews/F01_Cadence_67.webp"
+        },
+        {
+          "sku": "F03",
+          "title": "Inlay System",
+          "category_zh": "模块化桌面收纳",
+          "description": "A milled walnut perimeter locates a saddle-leather landing pad, a removable fluted pencil cup and a grooved instrument rest.",
+          "dimensions_mm": [
+            280.0,
+            128.0,
+            82.0
+          ],
+          "parts": 42,
+          "blend": "Blender/F03_Inlay_System.blend",
+          "glb": "GLB/F03_Inlay_System.glb",
+          "preview": "Previews/F03_Inlay_System.webp"
+        },
+        {
+          "sku": "F10",
+          "title": "Phase Almanac",
+          "category_zh": "电子纸桌面日历",
+          "description": "An unlit electronic paper calendar rests on a folded kickstand, with a copper selector and a replaceable rear fabric cover.",
+          "dimensions_mm": [
+            207.1,
+            78.3,
+            151.5
+          ],
+          "parts": 52,
+          "blend": "Blender/F10_Phase_Almanac.blend",
+          "glb": "GLB/F10_Phase_Almanac.glb",
+          "preview": "Previews/F10_Phase_Almanac.webp"
+        }
+      ],
+      "download_bytes": 1142097,
+      "sha256": "dd80f5182dbdae9ecf1fc43ffdb27d75771a1258c2ef3517f0e2b18bbb97ef81"
+    },
+    {
+      "id": "G",
+      "family": "Pelle",
+      "category": "Personal Accessories, Grooming and Travel",
+      "title": "AURELIA Pelle | Personal Accessories, Grooming and Travel Samples",
+      "archive": "Downloads/AURELIA_G_Pelle_Samples.zip",
+      "entries": [
+        {
+          "sku": "G02",
+          "title": "Sillage 50",
+          "category_zh": "香水瓶",
+          "description": "Fluted heavy glass, an amber reservoir, an engraved cream plaque and a substantial milled stopper.",
+          "dimensions_mm": [
+            66.8,
+            42.3,
+            104.5
+          ],
+          "parts": 11,
+          "blend": "Blender/G02_Sillage_50.blend",
+          "glb": "GLB/G02_Sillage_50.glb",
+          "preview": "Previews/G02_Sillage_50.webp"
+        },
+        {
+          "sku": "G05",
+          "title": "Riviera S",
+          "category_zh": "太阳镜",
+          "description": "Sculpted Paprika acetate, five-barrel hinges and inset gold pins surround two subtly convex smoke lenses.",
+          "dimensions_mm": [
+            144.2,
+            130.7,
+            44.8
+          ],
+          "parts": 26,
+          "blend": "Blender/G05_Riviera_S.blend",
+          "glb": "GLB/G05_Riviera_S.glb",
+          "preview": "Previews/G05_Riviera_S.webp"
+        },
+        {
+          "sku": "G10",
+          "title": "Senda 480",
+          "category_zh": "真空保温杯",
+          "description": "A flask with a waisted shoulder, turned stainless lip, ribbed grip cap and folded carry bail.",
+          "dimensions_mm": [
+            70.0,
+            70.1,
+            215.9
+          ],
+          "parts": 13,
+          "blend": "Blender/G10_Senda_480.blend",
+          "glb": "GLB/G10_Senda_480.glb",
+          "preview": "Previews/G10_Senda_480.webp"
+        }
+      ],
+      "download_bytes": 1077450,
+      "sha256": "e9bc49eb508efb3415fa8020dd8d2e6d1dc934610f173c21ffef39a47a59c72b"
+    },
+    {
+      "id": "H",
+      "family": "Sonora",
+      "category": "Hi-Fi Audio and Recording Equipment",
+      "title": "AURELIA Sonora | Hi-Fi Audio and Recording Equipment Samples",
+      "archive": "Downloads/AURELIA_H_Sonora_Samples.zip",
+      "entries": [
+        {
+          "sku": "H01",
+          "title": "Giro Reference",
+          "category_zh": "黑胶唱机",
+          "description": "A suspended walnut plinth carries a machined strobe platter, S-bent arm and individually indexed speed controls.",
+          "dimensions_mm": [
+            455.0,
+            364.7,
+            131.6
+          ],
+          "parts": 53,
+          "blend": "Blender/H01_Giro_Reference.blend",
+          "glb": "GLB/H01_Giro_Reference.glb",
+          "preview": "Previews/H01_Giro_Reference.webp"
+        },
+        {
+          "sku": "H02",
+          "title": "Cantil S",
+          "category_zh": "书架音箱",
+          "description": "A boat-tailed two-way cabinet pairs quarter-cut walnut with an inset Paprika baffle and a bronze-lipped waveguide.",
+          "dimensions_mm": [
+            178.1,
+            273.0,
+            324.0
+          ],
+          "parts": 47,
+          "blend": "Blender/H02_Cantil_S.blend",
+          "glb": "GLB/H02_Cantil_S.glb",
+          "preview": "Previews/H02_Cantil_S.webp"
+        },
+        {
+          "sku": "H07",
+          "title": "Valvola Duo",
+          "category_zh": "电子管耳机放大器",
+          "description": "Two glass triodes expose their glowing heater wires above a folded Rose chassis with a screened transformer.",
+          "dimensions_mm": [
+            232.0,
+            230.3,
+            141.5
+          ],
+          "parts": 48,
+          "blend": "Blender/H07_Valvola_Duo.blend",
+          "glb": "GLB/H07_Valvola_Duo.glb",
+          "preview": "Previews/H07_Valvola_Duo.webp"
+        }
+      ],
+      "download_bytes": 2963365,
+      "sha256": "5c4503a70bea163602b087672730152984fd6c7b95e4c8dfa62ed74061277321"
+    },
+    {
+      "id": "I",
+      "family": "Fonte",
+      "category": "Bathroom Fixtures and Spa Accessories",
+      "title": "AURELIA Fonte | Bathroom Fixtures and Spa Accessories Samples",
+      "archive": "Downloads/AURELIA_I_Fonte_Samples.zip",
+      "entries": [
+        {
+          "sku": "I02",
+          "title": "Arco 265",
+          "category_zh": "单柄高位混水龙头",
+          "description": "A bent brass riser clears a vessel basin, with a side-mounted ceramic mixer and recessed aerator.",
+          "dimensions_mm": [
+            74.9,
+            204.0,
+            264.5
+          ],
+          "parts": 12,
+          "blend": "Blender/I02_Arco_265.blend",
+          "glb": "GLB/I02_Arco_265.glb",
+          "preview": "Previews/I02_Arco_265.webp"
+        },
+        {
+          "sku": "I05",
+          "title": "Sponda 172",
+          "category_zh": "非对称独立式浴缸",
+          "description": "The double-wall mineral shell rises at its reclining end and sweeps into a narrow recessed toe.",
+          "dimensions_mm": [
+            1710.0,
+            790.0,
+            600.0
+          ],
+          "parts": 5,
+          "blend": "Blender/I05_Sponda_172.blend",
+          "glb": "GLB/I05_Sponda_172.glb",
+          "preview": "Previews/I05_Sponda_172.webp"
+        },
+        {
+          "sku": "I06",
+          "title": "Loto Pump",
+          "category_zh": "釉面陶瓷皂液器",
+          "description": "A gently ribbed Denim reservoir meets a machined collar and slim brass pump.",
+          "dimensions_mm": [
+            82.0,
+            96.3,
+            185.0
+          ],
+          "parts": 6,
+          "blend": "Blender/I06_Loto_Pump.blend",
+          "glb": "GLB/I06_Loto_Pump.glb",
+          "preview": "Previews/I06_Loto_Pump.webp"
+        }
+      ],
+      "download_bytes": 947995,
+      "sha256": "db8f6300c31cdd439164bc50c67a23e84223f6c0f119a93b4a8e75a69fb75f57"
+    },
+    {
+      "id": "J",
+      "family": "Futura",
+      "category": "Near-Future Home Technology",
+      "title": "AURELIA Futura | Near-Future Home Technology Samples",
+      "archive": "Downloads/AURELIA_J_Futura_Samples.zip",
+      "entries": [
+        {
+          "sku": "J01",
+          "title": "Field One",
+          "category_zh": "磁悬浮音箱",
+          "description": "A closed-loop induction dish suspends a two-piece acoustic orb above its radial alignment grooves.",
+          "dimensions_mm": [
+            310.0,
+            310.0,
+            354.0
+          ],
+          "parts": 22,
+          "blend": "Blender/J01_Field_One.blend",
+          "glb": "GLB/J01_Field_One.glb",
+          "preview": "Previews/J01_Field_One.webp"
+        },
+        {
+          "sku": "J02",
+          "title": "Folio Duo",
+          "category_zh": "双折叠交互手机",
+          "description": "Two cobalt alloy leaves fold around a beaded hinge, with independent OLED panels and an external camera island.",
+          "dimensions_mm": [
+            133.3,
+            33.4,
+            154.0
+          ],
+          "parts": 66,
+          "blend": "Blender/J02_Folio_Duo.blend",
+          "glb": "GLB/J02_Folio_Duo.glb",
+          "preview": "Previews/J02_Folio_Duo.webp"
+        },
+        {
+          "sku": "J15",
+          "title": "Circadia Array",
+          "category_zh": "床头环境控制中枢",
+          "description": "A shared charging tray registers a vented air sampler, lift-off clock and tactile light switch.",
+          "dimensions_mm": [
+            327.0,
+            143.0,
+            115.8
+          ],
+          "parts": 26,
+          "blend": "Blender/J15_Circadia_Array.blend",
+          "glb": "GLB/J15_Circadia_Array.glb",
+          "preview": "Previews/J15_Circadia_Array.webp"
+        }
+      ],
+      "download_bytes": 2215199,
+      "sha256": "41b6bb4a11e9e5376484c11d611c01634d60976b7b55721ff894c8463abc02d1"
+    },
+    {
+      "id": "K",
+      "family": "Crema",
+      "category": "Coffee Bar and Barista Accessories",
+      "title": "AURELIA Crema | Coffee Bar and Barista Accessories Samples",
+      "archive": "Downloads/AURELIA_K_Crema_Samples.zip",
+      "entries": [
+        {
+          "sku": "K01",
+          "title": "Tazza Uno",
+          "category_zh": "意式浓缩杯碟",
+          "description": "A thick-walled demitasse rests in a stepped cobalt saucer; the slip-cast loop widens at its roots.",
+          "dimensions_mm": [
+            118.0,
+            118.0,
+            60.7
+          ],
+          "parts": 8,
+          "blend": "Blender/K01_Tazza_Uno.blend",
+          "glb": "GLB/K01_Tazza_Uno.glb",
+          "preview": "Previews/K01_Tazza_Uno.webp"
+        },
+        {
+          "sku": "K03",
+          "title": "Forma Pour 420",
+          "category_zh": "拉花奶缸",
+          "description": "A drawn stainless pitcher forms the pouring beak in the wall itself, with a rolled rim and a folded strap handle.",
+          "dimensions_mm": [
+            140.7,
+            89.8,
+            116.2
+          ],
+          "parts": 11,
+          "blend": "Blender/K03_Forma_Pour_420.blend",
+          "glb": "GLB/K03_Forma_Pour_420.glb",
+          "preview": "Previews/K03_Forma_Pour_420.webp"
+        },
+        {
+          "sku": "K08",
+          "title": "Misura Brew",
+          "category_zh": "电子冲煮秤",
+          "description": "A suspended steel load platform carries a removable ribbed silicone pad above a sealed weigh-time console with a front OLED and rear USB-C inlet.",
+          "dimensions_mm": [
+            157.0,
+            115.3,
+            28.0
+          ],
+          "parts": 20,
+          "blend": "Blender/K08_Misura_Brew.blend",
+          "glb": "GLB/K08_Misura_Brew.glb",
+          "preview": "Previews/K08_Misura_Brew.webp"
+        }
+      ],
+      "download_bytes": 1051736,
+      "sha256": "392bd60cecedf621aa159d8f8a067f140aca7c81526b475b2d4fca8bd9dc08e1"
+    },
+    {
+      "id": "L",
+      "family": "Motus",
+      "category": "Home Gym and Fitness Equipment",
+      "title": "AURELIA Motus | Home Gym and Fitness Equipment Samples",
+      "archive": "Downloads/AURELIA_L_Motus_Samples.zip",
+      "entries": [
+        {
+          "sku": "L01",
+          "title": "Incline 72",
+          "category_zh": "可调式训练凳",
+          "description": "A folding ladder indexes the backrest angle beneath two separately upholstered, tapered pads.",
+          "dimensions_mm": [
+            1322.9,
+            573.0,
+            1025.7
+          ],
+          "parts": 57,
+          "blend": "Blender/L01_Incline_72.blend",
+          "glb": "GLB/L01_Incline_72.glb",
+          "preview": "Previews/L01_Incline_72.webp"
+        },
+        {
+          "sku": "L09",
+          "title": "Linea Studio Mat",
+          "category_zh": "卷边防滑训练垫",
+          "description": "A dual-density exercise mat has a gently lifting heel, a rubber traction base and printed alignment marks.",
+          "dimensions_mm": [
+            680.0,
+            1860.0,
+            27.0
+          ],
+          "parts": 11,
+          "blend": "Blender/L09_Linea_Studio_Mat.blend",
+          "glb": "GLB/L09_Linea_Studio_Mat.glb",
+          "preview": "Previews/L09_Linea_Studio_Mat.webp"
+        },
+        {
+          "sku": "L10",
+          "title": "Ferro Sixteen",
+          "category_zh": "整体铸造壶铃",
+          "description": "A low-centred cast body features a broad chalk-friendly loop, a replaceable impact foot and a weight escutcheon.",
+          "dimensions_mm": [
+            204.4,
+            155.4,
+            245.5
+          ],
+          "parts": 9,
+          "blend": "Blender/L10_Ferro_Sixteen.blend",
+          "glb": "GLB/L10_Ferro_Sixteen.glb",
+          "preview": "Previews/L10_Ferro_Sixteen.webp"
+        }
+      ],
+      "download_bytes": 1135909,
+      "sha256": "4269d67cc81144ecf0a4cb665d25874ca9ccb2628ef8215c66e98926ade6ca6b"
+    }
+  ]
+}

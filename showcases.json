@@ -1,0 +1,46 @@
+{
+  "id": "Showcases",
+  "family": "Showcases",
+  "archive": "AURELIA_Showcases_Samples.zip",
+  "license": "CC BY 4.0",
+  "creator": "AURELIA",
+  "blender_version": "5.3.0",
+  "entries": [
+    {
+      "id": "H-SAMPLE",
+      "title": "Crema · Tasting Counter",
+      "skus": [
+        "K01",
+        "K03",
+        "K08"
+      ],
+      "products": [
+        "Tazza Uno",
+        "Forma Pour 420",
+        "Misura Brew"
+      ],
+      "description": "A travertine tasting counter with a porcelain cup and saucer, milk pitcher and coffee scale. Four original bar lights model the materials in a close three-quarter view.",
+      "blend": "Scenes/Crema-Tasting-Counter.blend",
+      "preview": "Previews/Crema-Tasting-Counter.jpg"
+    },
+    {
+      "id": "I-SAMPLE",
+      "title": "Motus · Training Bay",
+      "skus": [
+        "L01",
+        "L09",
+        "L10"
+      ],
+      "products": [
+        "Incline 72",
+        "Linea Studio Mat",
+        "Ferro Sixteen"
+      ],
+      "description": "A lifting bench, studio mat and kettlebell arranged against walnut acoustic ribs and an architectural plaster wall. Four original studio lights shape the training bay.",
+      "blend": "Scenes/Motus-Training-Bay.blend",
+      "preview": "Previews/Motus-Training-Bay.jpg"
+    }
+  ],
+  "bytes": 1308541,
+  "sha256": "db94153112f49759307eac153784952f84e483c5f164f7047abc3a87bd4a54f1"
+}
