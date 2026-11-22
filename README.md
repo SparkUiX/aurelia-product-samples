@@ -1,8 +1,8 @@
 # AURELIA · Product Samples
 
-36 editable product models and two studio scenes from the AURELIA industrial design collection. The twelve product families span a rangefinder camera, a walnut turntable, a pour-over vessel and an adjustable training bench. Each product comes as a native Blender file, a portable GLB and a studio render. The two scenes bring six of the products together in a coffee bar and a home gym.
+36 editable product models and two studio scenes from the AURELIA industrial design collection. The twelve product families span a rangefinder camera, a walnut turntable, a barista milk pitcher and an adjustable training bench. Each product comes as a native Blender file, a portable GLB and a studio render. The two scenes bring six of the products together in a coffee bar and a home gym.
 
-[Download all 13 packs](https://github.com/SparkUiX/aurelia-product-samples/releases/download/v1.0.0/AURELIA-Product-Samples-1.0.zip) · [Browse the release](https://github.com/SparkUiX/aurelia-product-samples/releases/tag/v1.0.0)
+[Download all 13 packs](https://github.com/SparkUiX/aurelia-product-samples/releases/download/v1.0.0/AURELIA-Product-Samples-1.0.zip) · [Browse the release](https://github.com/SparkUiX/aurelia-product-samples/releases/tag/v1.0.0) · [Download on itch.io](https://sparkuix.itch.io/aurelia-product-samples)
 
 <img src="Media/AURELIA-Sampler-Cover.jpg" width="460" alt="A selection of AURELIA industrial design models from the free collection">
 
